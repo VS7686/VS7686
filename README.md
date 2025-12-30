@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there, I'm Vishesh Shandilya! 👋
 
-<!--
-**VS7686/VS7686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year **Computer Science & Engineering** student at **Delhi Technological University (DTU)**. I am passionate about systems programming, open-source development, and solving algorithmic problems.
 
-Here are some ideas to get you started:
+Currently, I am actively contributing to **CCExtractor** and preparing for **Google Summer of Code (GSoC)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Open Source Contributions
+
+**[CCExtractor](https://github.com/CCExtractor/ccextractor)** (Subtitle extraction tool)
+I contribute to the core C codebase, focusing on build stability and networking logic.
+* **[Merged] Networking Logic Fix:** Fixed a critical bug in `networking.c` to prevent C/Rust execution fallthrough, ensuring safe subtitle streaming.
+* **[Merged] EPG Memory Safety:** Resolved compiler warnings in `ts_tables_epg.c` by optimizing variable usage while preserving complex pointer arithmetic for TV guide parsing.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** C, C++ (Active Learner), Python
+* **Version Control:** Git & GitHub (CLI & GUI)
+* **Development:** VS Code, MSVC, CMake, Linux (WSL)
+* **Interests:** Systems Programming, Competitive Programming, Data Structures & Algorithms
+
+---
+
+### 📈 GitHub Stats
+
+![Vishesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VS7686&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VS7686&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Connect with me
+* **Codeforces:** [VS7686](https://codeforces.com/profile/VS7686)
+* **Zulip:** Active in the CCExtractor developer community
