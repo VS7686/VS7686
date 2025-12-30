@@ -30,6 +30,4 @@ I contribute to the core C codebase, focusing on build stability and networking 
 
 ---
 
-### 📫 Connect with me
-* **Codeforces:** [VS7686](https://codeforces.com/profile/VS7686)
-* **Zulip:** Active in the CCExtractor developer community
+
